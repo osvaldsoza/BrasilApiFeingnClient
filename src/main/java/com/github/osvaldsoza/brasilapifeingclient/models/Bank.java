@@ -1,4 +1,4 @@
-package com.github.osvaldsoza.brasilapiresttemplate.models;
+package com.github.osvaldsoza.brasilapifeingclient.models;
 
 public record Bank(
         String ispb,
